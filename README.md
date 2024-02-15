@@ -6,6 +6,7 @@ This is a terminal-based application that can manage entries from a 'database' r
 
 **Instructions:**
 
+- Install the required packages ==> npm install
 - Run the app in terminal ==> node app
 - Use the shortcuts provided for the operations you want to perform.
 - Have fun! :) 
