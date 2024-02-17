@@ -1,4 +1,4 @@
-# **DCI 2024 Februar Database-Application Exercise**
+# **DCI Database-Application Exercise (Feb 2024)**
 
 **Description:**
 
